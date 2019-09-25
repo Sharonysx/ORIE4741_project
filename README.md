@@ -13,7 +13,7 @@ securities.csv: General description of each company with division on sectors
 
 ### Two focuses: 
 
-How to use SVM, decision tree, random forest and XGboost to predict S&P 500 Price.
+How to use SVM, decision tree, random forest and XGboost to predict S&P 500 Price.  
 Compare the results of the methods.
 
 ### Our steps: 
