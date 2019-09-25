@@ -1,8 +1,7 @@
 # ORIE 4741 S&P500 Stock Price Prediction
 by Jiahui Lu (jl3947), Wenjia Zhai (wz363), Yishan Xiong (yx468)
 
-Our data set:
-
+Our data set: ||
 “New York Stock Exchange - S&P 500 companies historical prices with fundamental data” from Kaggle: https://www.kaggle.com/dgawlik/nyse
 
 This dataset contains four parts:
